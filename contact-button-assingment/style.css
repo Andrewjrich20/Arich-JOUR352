@@ -9,18 +9,29 @@ Color 5 - #4F4EC3
 
 body{
     background-color:#9DC0BD;
+    text-align:center;
 }
+
 button{
     background-color:#49809C;
     color:#AC5983;
     font-family:serif;
-    a:hover{
+    font-size:20px;
+    width:200px;
+    padding:10px;
+    margin-top:50px;
+    border:none;
+    border-radius:8px
+      }
+    
+button:hover{
         background-color:#4F4EC3;
     }
-}
+
 h1{
     font-family:serif;
 }
+
 h2{
     font-family:serif;
 }
