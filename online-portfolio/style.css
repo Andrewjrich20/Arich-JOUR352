@@ -26,6 +26,7 @@ button{
 
 #button-container{
     text-align:center;
+    color:#f2f1ec;
 }
 
 button:hover{
@@ -48,12 +49,22 @@ h3{
     color:#365b6d;
 }
 
+h4{
+    color:#365b6d;
+    font-size:15px;
+}
+
+.nav{
+    justify-content:center;
+}
+
 .nav a{
     color:#365b6d;
 }
 
 .nav a:hover{
     color:black;
+    text-decoration:underline;
 }
 
 p{
